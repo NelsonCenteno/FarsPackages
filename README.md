@@ -19,5 +19,3 @@ URL: https://github.com/NelsonCenteno/FarsPackages
 
 The US National Highway Traffic Safety Administration's [Fatality Analysis Reporting System](https://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)).
 
-https://travis-ci.com/NelsonCenteno/FarsPackages.svg?branch=master)](https://travis-ci.com/NelsonCenteno/FarsPackages
-
